@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    double suma, total;
+    float suma, total;
     suma = 1;
     for(int i=0; i < 100; i++){
         total = 0;
